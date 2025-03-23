@@ -28,6 +28,7 @@ app.get('/', (req, res) => {
       <div class="container">
         <h1>Witaj swiecie prosto z ${regionName}!</h1>
         <h2>z chmury azure</h2>
+        <h2>za pomącą nowego kodu</h2>
       </div>
     </body>
     </html>
